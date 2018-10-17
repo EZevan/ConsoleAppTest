@@ -1,0 +1,12 @@
+# user specified files
+Password.md
+
+# visual studio 2015/2017 cache/options directory
+.vs/
+
+#build results
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+[Oo]bject/
+[Ll]og/
