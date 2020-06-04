@@ -92,24 +92,24 @@ namespace ConsoleApp1
     ///=========================================================================================================================================================================================================================
 
 
-    class TestStringBuilder
-    {
-        public void TestMethod()
-        {
+    //class TestStringBuilder
+    //{
+    //    public void TestMethod()
+    //    {
 
-            string s = "Hello World";
-            StringBuilder sb = new StringBuilder(s);
+    //        string s = "Hello World";
+    //        StringBuilder sb = new StringBuilder(s);
 
-            sb.Append(" evan");
+    //        sb.Append(" evan");
 
-        }
+    //    }
 
-        static void Main(string[] args)
-        {
-            TestStringBuilder t = new TestStringBuilder();
-            t.TestMethod();
-        }
+    //    static void Main(string[] args)
+    //    {
+    //        TestStringBuilder t = new TestStringBuilder();
+    //        t.TestMethod();
+    //        //GenGuid();
+    //    }
 
-
-    }
+    //}
 }
